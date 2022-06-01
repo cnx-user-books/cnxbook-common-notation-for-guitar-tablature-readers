@@ -1,0 +1,36 @@
+<document xmlns="http://cnx.rice.edu/cnxml">
+
+<title>From tablature to notation 7: Reading Notes above the Staff and Left Hand Position</title>
+<metadata xmlns:md="http://cnx.rice.edu/mdml">
+  <md:content-id>m63107</md:content-id>
+  <md:title>From tablature to notation 7: Reading Notes above the Staff and Left Hand Position</md:title>
+  <md:abstract>Notes on ledger lines above the staff are usually played on the first string, using left-hand positions that are higher on the neck than first position. When left hand position appears in common notation, it is usually written as a Roman numeral that indicates the fret played by the first finger.</md:abstract>
+  <md:uuid>500b52ea-8553-40ae-aafb-25da173d748e</md:uuid>
+</metadata>
+
+<content>
+  <note id="eip-461">This lesson is part of <link document="col12059">Common Notation for Guitar Tablature Readers</link>, a <link document="m62540">learning by doing</link> course intended to help guitarists who are comfortable with tablature learn how to read common notation. It is a short experimental course that will be refined and expanded if there is sufficient user interest and feedback.</note><para id="delete_me">The notes written above the staff cannot be played in first position. They are typically played in higher positions on the first string, although some of them can also be played in high positions on other strings.
+  </para>
+
+<figure id="high-notes-figure"><title>Notes above the Staff</title><media id="high-notes" alt="A, B, C, D, E, F, G above the staff, with tablature showing positions at frets 5, 7, 8, 10, 12, 13, 15.">
+    <image mime-type="image/png" src="../../media/high-notes.png"/>
+  </media>
+  
+<caption>Here are the natural notes above the staff. The rules for sharp and flat notes are the same. The higher the note, the more uncommon it is to find it in written guitar music, so for now, only learn the high notes that you find in your music.
+  </caption></figure><para id="eip-117">The <term>left hand position</term> on the fretboard is not a standard part of common notation. It is sometimes added, however, for example to indicate the best fingering in a tricky passage, or just as a reminder to help you reach the correct notes quickly. <emphasis>Roman numerals are used to indicate left-hand “position” as the fret where the first finger plays</emphasis>; other fingers may be reaching to play at higher frets. If you want to mark where to play high notes, it is a good idea to use Roman numerals, because this will help you become accustomed to the standard notation. Regular numbers are used to indicate which left-hand finger to use; circled numbers indicate which string the note is played on. Usually all of this extra notation is included only when fingering is particularly difficult or important, and of course only when the music is written specifically to be performed on guitar.</para><figure id="Roman-numerals-figure"><title>When fingerings are included</title><media id="Roman-numerals" alt="Passage indicating playing high B, C, and D all in seventh position, with first finger playing B, second playing C, and fourth playing D, followed by A and G played on the second string at seventh position, with the fourth and second fingers. Includes tablature translation showing first string notes at fret 8, 7, and 10, and second string notes at 10 and 8.">
+    <image mime-type="image/png" src="../../media/Roman-numerals.png"/>
+  </media>
+  
+<caption>When common notation is written specifically for guitar, then specific fingerings may be suggested. Roman numerals indicate the left hand position, i.e. the fret where the first finger plays. The string is indicated by a circled number, and the best left hand finger to use is indicated by a plain number. All that extra info makes the notation crowded, so it is usually only used to suggest the best fingering for tricky passages or when the best fingering is not obvious.</caption></figure><list id="eip-790" list-type="enumerated" number-style="arabic"><title>Activity 1: Practice reading notes above the staff</title><item>Find a piece (or section) of <link document="m62589">your study music</link> that includes notes above the staff and that is not too challenging for you in terms of sharps, flats, and key signatures.</item>
+<item>Use the same techniques as in <link document="m62670" target-id="eip-405">Activity 1 of Lesson 2</link> to learn the new notes a few at a time. As with the low-string notes, you may find that it takes more practice to quickly recognize notes that are on ledger lines rather than inside the staff.</item>
+<item>
+If you have trouble remembering where to play a note, you can practice the standard notation by penciling in the correct fret <emphasis>as a Roman numeral</emphasis> (see <link target-id="Roman-numerals-figure"/>).
+</item>
+<item>If you typically read music with many high notes, stick with this lesson until you are very comfortable reading high notes. If you do not have much written music with high notes in it, simply get a little familiar with the ones that do appear in your music, then go on to Lesson 8.</item></list><para id="eip-952">As discussed in <link document="m62598">Lesson 1</link>, some high notes have playable alternative fingerings at even higher positions on the other strings. When these alternative fingerings are the best choice, it is usually marked in the music as indicated in <link target-id="Roman-numerals-figure"/>. You can, of course, also choose for yourself to play high notes on other strings. If you think this will be a useful skill for you, try Activity 2 before going on to the next lesson.</para><list id="eip-224" list-type="enumerated" number-style="arabic"><title>Activity 2: Alternative Fingerings for High Notes</title><item>Choose a section of the piece you practiced in Activity 1.</item>
+<item>Determine an alternative fingering for all of the high notes. Generally, the easiest will be five frets higher on the second string (as discussed in <link document="m62598">Lesson 1</link>).</item>
+<item>Try to play the section, using alternative fingerings for all of the high notes. You can substitute alternative fingerings for other notes, too, if you like.</item>
+<item>In your opinion: Are any of the alternative fingerings unplayable because they are too high on your fretboard? Are any of them easier to play or better-sounding than the first-string fingering? Are the alternative fingerings more practical if you also use substitute fingerings for any of the lower notes?</item>
+<item>Based on your decisions in Step 4, decide on your preferred fingering for this section. If it includes any alternative fingerings, practice the section until it is comfortable using your preferred fingerings.</item>
+<item>Repeat steps 1-5 until you are comfortable with the process.</item></list></content>
+
+</document>

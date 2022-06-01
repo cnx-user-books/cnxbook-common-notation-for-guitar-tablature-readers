@@ -1,0 +1,55 @@
+<document xmlns="http://cnx.rice.edu/cnxml">
+
+<title>From tablature to notation 5: Sharp Notes</title>
+<metadata xmlns:md="http://cnx.rice.edu/mdml">
+  <md:content-id>m62712</md:content-id>
+  <md:title>From tablature to notation 5: Sharp Notes</md:title>
+  <md:abstract>On the guitar, the sharp version of a note is one fret higher than the natural version.</md:abstract>
+  <md:uuid>3bf19185-a1fa-4b72-8eec-d3b8c63c132f</md:uuid>
+</metadata>
+
+<content>
+  <note id="eip-926">This lesson is part of <link document="col12059">Common Notation for Guitar Tablature Readers</link>, a <link document="m62540">learning by doing</link> course intended to help guitarists who are comfortable with tablature learn how to read common notation. It is a short experimental course that will be refined and expanded if there is sufficient user interest and feedback.</note><para id="delete_me">In previous lessons in this course, you have been reading only <term>natural</term> notes. You can assume that a note written in common notation is natural, unless there is an indication that it should be sharp or flat. 
+  </para><para id="eip-637">You have probably noticed that when you played the natural notes, there were some notes that you always skipped over. For example, you can play F on the first fret of the first string and G on the third fret of the first string, but you never played the second fret of the first string.</para><figure id="not-natural-figure"><media id="not-natural" alt="Guitar tablature showing fingerings at 6th and 2nd strings 4th fret, 5th and 4rd strings 1st fret, 3rd string 3rd fret, 1st string 2nd fret">
+    <image mime-type="image/png" src="../../media/not-natural.png"/>
+  </media>
+  
+<caption>Here are a few examples of notes that cannot be written as natural notes in common notation
+  </caption></figure><para id="eip-805">The notes that you skipped over cannot be written as natural notes, but they can be written as <term>sharp notes</term>. (They can also be written as flat notes, but we'll get to that in <link document="m63119">Lesson 8</link>.) The music-theory definition of a sharp note is “one half step higher than the natural note with the same letter name.” For guitarists, this translates to <emphasis>the sharp note is one fret higher than the natural note with the same letter name</emphasis>. For the purposes of music theory, the sharp version of a note is a different note from the natural version. Unlike octaves, the two notes are not interchangeable, so if you play the natural version when the sharp version is called for, the note will sound wrong.</para><figure id="sharp-demo-figure"><media id="sharp-demo" alt="F natural, F sharp, C natural, and C sharp, written in common notation, with tablature indicating that sharp notes are played one fret higher.">
+    <image mime-type="image/png" src="../../media/sharp-demo.png"/>
+  </media>
+
+
+<caption>When a sharp symbol is in front of a note, you should play the note one fret higher.
+  </caption></figure><list id="eip-838"><title>Rules for Reading Sharps</title><item>Assume a note is natural until you see a sharp sign.</item>
+<item>When a sharp appears in front of a note, that note, and the rest of the notes in that measure on that line or space, will be sharp (one fret higher).</item>
+<item>If a natural sign appears on the same line or space, it cancels the sharp, and you go back to the “assume it is natural” rule until you see another sharp.</item>
+<item>Once you cross the bar line, go back to the “assume it is natural” rule until there is another note on that line or space with a sharp sign.</item>
+<item>Sharp, natural, or flat signs on different lines or spaces do not interact with each other; for example a C natural does not cancel an F sharp.</item>
+</list><para id="eip-422">Reading sharps and flats correctly takes some practice. Do not be surprised if it takes you quite a while to read them smoothly and without mistakes, even after you have figured out the rules. You may notice that some of your music has helpful "reminders," for example a natural sign in parentheses after a bar line, to remind you to return to the natural note. At first, make sure you check the tablature version of your pieces to be certain that you understand the rules and are applying the rules correctly. And don't be shy about penciling your own reminders into the common notation as needed!</para><figure id="sharps-rules-figure"><title>Rules for Reading Sharps</title><media id="sharps-rules" alt="One example each of common notation with sharp continuing through the measure, natural sign canceling sharp sign, reverting to natural automatically after the bar line">
+    <image mime-type="image/png" src="../../media/sharps-rules.png"/>
+  </media>
+<caption>
+  </caption></figure><list id="eip-79" list-type="enumerated" number-style="arabic"><title>Activity 1: Play a piece with some sharp notes</title><item>You can start moving on from your first pieces now, but for a while you will still need to select pieces carefully. Now you need a piece (or section of a piece) with no flats at all, no sharps at the beginning of the staff, but sharps next to some of the notes (see <link target-id="sharp-accidentals-piece-figure"/>).</item>
+<item>If you cannot find any pieces that match the requirements, but you do have pieces with only one sharp at the beginning of the staff, you can skip to <link document="m63046">Lesson 6</link>. In this case, return to this lesson to review and practice the rules <link target-id="eip-838">above</link> the first time you encounter sharp, flat, or natural signs that are written immediately in front of notes.</item>
+<item>If it is easier to find sharps in pieces with high notes (i.e. notes written above the staff), you can skip to <link document="m63107">Lesson 7</link>, practice reading high notes, and then come back to Lessons 5 and 6.</item>
+<item>
+If you can find an appropriate piece, choose a short section of the piece that includes sharps.
+</item>
+<item>Play through the tablature version of the section at least once, to make sure you know what it should sound like, which notes are sharp, and where to play the sharp notes. Check the tablature against the <link target-id="eip-838">rules for sharps</link>, to see which of the rules are relevant to the sharp notes in this section.
+</item>
+<item>
+As soon as you are comfortable with the section, switch to practicing it while reading the common notation. Listen carefully to make sure it sounds the same as when you read the tablature. Feel free to write in reminder sharp or natural symbols as needed.
+</item>
+<item>
+Once you are comfortable reading the section in common notation, repeat steps 5 and 6 with other sections, or other pieces, that include sharp notes.
+</item>
+<item>Once you are comfortable with the rules for sharps, you can go on to Lesson 6.</item>
+</list><figure id="sharp-accidentals-piece-figure"><media id="sharp-accidentals-piece" alt="Written in both common notation and tablature, in the key of C, with F sharp and G sharp highlighted.">
+    <image mime-type="image/png" src="../../media/sharp-accidentals-piece.png"/>
+  </media>
+  
+<caption>This is the third phrase of "It came upon a midnight clear."
+  </caption></figure></content>
+
+</document>

@@ -1,0 +1,44 @@
+<document xmlns="http://cnx.rice.edu/cnxml">
+
+<title>From tablature to common notation 1: Finding the Same Note in Different Places</title>
+<metadata xmlns:md="http://cnx.rice.edu/mdml">
+  <md:content-id>m62598</md:content-id>
+  <md:title>From tablature to common notation 1: Finding the Same Note in Different Places</md:title>
+  <md:abstract>The same pitch can be played in several different places on the guitar fretboard, so when you read common notation, you will have choices of where to play each note. These activities will help you understand the choices and how to decide.</md:abstract>
+  <md:uuid>549d0018-7c06-4fe8-8a95-519dfc468fee</md:uuid>
+</metadata>
+
+<content>
+  <note id="eip-819">This lesson is part of <link document="col12059">Common Notation for Guitar Tablature Readers</link>, a <link document="m62540">learning by doing</link> course intended to help guitarists who are comfortable with tablature learn how to read common notation. It is a short experimental course that will be refined and expanded if there is sufficient user interest and feedback.</note><para id="delete_me">As described in the <link document="m62589">introduction to this course</link>, a main difference between tablature and common notation is that tablature tells you where to play a note on the guitar fretboard, while common notation tells you how high or low the note sounds. One reason this can cause confusion when you start looking at common notation is that you can play notes that sound the same even though they are played in very different places on the guitar. If this surprises you at all, play through the examples in <link target-id="same-pitch-figure"/>.
+  </para><figure id="same-pitch-figure"><media id="same-pitch" alt="Tablature showing four different ways to write the same pitch.">
+    <image mime-type="image/png" src="../../media/same-pitches.png"/>
+  </media>
+  
+<caption>The note played on an an open E string can also be played at the fifth fret of the B string, the ninth fret of the G string, and the fourteenth fret of the D string. Although they look very different in tablature, these notes look the same in common notation, because they sound the same. If a piece is written specifically for guitar, it may include extra information that tells you the “best fingering.” If the extra information is not included, it is up to you to decide where to play it.
+  </caption></figure><para id="eip-723">If you are already so familiar with alternative fingerings that you can easily find the alternative fingerings for any note written in tablature, then you can skip this module. If not, do some of the following activities as a regular part of your guitar practice until you find it easy and natural to find an “alternative” fingering for any note that you read in tablature. </para><para id="eip-31">If you skip this step, you may find it difficult to relate your tablature pieces to common notation. In order to greatly simplify the explanations in this course, I will discuss each common-notation note in terms of the fingering that is closest to the nut (in other words, as close to first position as possible.) For reference purposes, Lesson 2 will show the higher-position alternatives for each note. But the more you begin to think about notes in terms of how high or low they sound, rather than where they are played, the easier it will be to make sense of common notation.</para>
+
+<figure id="position-def-figure"><title>Left Hand Position</title><media id="position-def" alt="Guitar fretboard indicating fingerings that are in easy reach in first position.">
+    <image mime-type="image/png" src="../../media/position-def.png"/>
+  </media>
+  
+<caption>The term “position” refers to where the left hand is playing on the neck. First position is closest to the nut, with the first finger at the first fret, so that first, second, third, and fourth frets are in reach without shifting the entire hand.  </caption></figure><list id="eip-288" list-type="enumerated" number-style="arabic"><title>Activity 1: Use same-pitch fingerings to tune your guitar</title><item>This is a standard method of tuning the guitar. Regardless of your usual tuning method, use this method for a few practice sessions.</item>
+<item>Tune the low E string using your usual tuning reference, such as a pitch pipe, tuning fork, or keyboard.</item>
+<item>Then tune the A string by matching the open A string to the note on the E string fifth fret.</item>
+<item>Tune the D string by matching the open D string to the note on the A string fifth fret, and so on.</item>
+<item>The G-string-to-B-string tuning is the only one that is different; tune the B string to the note at the fourth fret of the G string. (See <link target-id="tuning-figure"/>.)</item></list><figure id="tuning-figure">
+  <media id="tuning" alt="Guitar fretboard indicating position for tuning each string to the next-lower string.">
+    <image mime-type="image/png" src="../../media/tuning.png"/>
+  </media>
+  <caption>
+     You can use same-notes-in-different-places to tune your guitar. Starting with the low E string in tune, tune each string to the string below it, by matching the open string to the note at the fifth fret (except the B string, which matches the third string fourth fret note instead of fifth fret.)
+  </caption>
+</figure><list id="eip-488" list-type="enumerated" number-style="arabic"><title>Activity 2: Find and play matching notes </title><item><link target-id="same-pitch-figure"/> shows just one example of the “same” note sounding at different frets on different strings. Choose any other note and play it in as many different places on the guitar as you can. </item>
+<item>Turn this into a game or challenge by seeing how quickly you can find alternative fingerings for a note and then moving back and fourth between the different fingerings as fast as you can.</item></list><list id="eip-525" list-type="enumerated" number-style="arabic"><title>Activity 3: How many versions of a note can you play?</title><item>This is a variation on Activity 2. When you choose a note, try to predict where you will find alternative fingerings, and how many alternative fingerings you will be able to find. Notice the patterns that make predicting easier.</item>
+<item>Check to see if you are correct. (You should find that some notes are only playable in one place, while others have two, three, or more usable fingerings.)</item>
+<item>Challenge yourself to get better at predicting how many places you will be able to play a particular note, and where you will find them.</item></list><list id="eip-745" list-type="enumerated" number-style="arabic"><title>Activity 4: Play the same tune in a different place on the guitar</title><item>Choose a short section of a tune that you know and like to play, and that you know will be playable in a different position on the guitar (i.e. higher or lower on the neck), based on the prediction skill that you developed in Activity 3. </item>
+<item>Figure out how to play the tune using the same notes played in a different place on the guitar. You can change the fingering for all of the notes or just some of them. You can write out the new fingerings in tablature if that helps, but challenge yourself to get to the point that you can change the fingerings of a tune without writing down the new fingering.</item>
+<item>Also challenge yourself to be able to play a tune so well with two different fingerings that both versions are equally smooth. Decide which fingering you prefer based on the slight differences in <link document="m11059">timbre</link> that are created because you are playing the tune at different frets on different strings.</item>
+<item>Here is a particularly useful challenge. Choose a tune that you have trouble playing well and try to find an alternative fingering that is easier and/or sounds better. Changing the fingering of some, but not all, of the notes may be particularly helpful.</item>
+<item>Here is a tough variation for those who like playing challenges. You will have noticed by now that playing alternative fingerings usually involves a shift in your left hand position. Practice playing a tune smoothly while playing some notes in one position and some in another, moving the left hand up and down between two different positions on the guitar neck. How often can you change positions without interrupting the tune?</item></list></content>
+
+</document>

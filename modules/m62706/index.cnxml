@@ -1,0 +1,39 @@
+<document xmlns="http://cnx.rice.edu/cnxml">
+
+<title>From tablature to notation 4: Notes written below the staff</title>
+<metadata xmlns:md="http://cnx.rice.edu/mdml">
+  <md:content-id>m62706</md:content-id>
+  <md:title>From tablature to notation 4: Notes written below the staff</md:title>
+  <md:abstract>The notes in first position on the lowest two strings of the guitar are all written below the staff.</md:abstract>
+  <md:uuid>8d8e7e48-ff62-4a3d-a6f0-f0b60039d666</md:uuid>
+</metadata>
+
+<content>
+  <note id="eip-476">This lesson is part of <link document="col12059">Common Notation for Guitar Tablature Readers</link>, a <link document="m62540">learning by doing</link> course intended to help guitarists who are comfortable with tablature learn how to read common notation. It is a short experimental course that will be refined and expanded if there is sufficient user interest and feedback.</note><para id="delete_me">You have probably noticed that this course has not yet used your lowest two strings. All of the notes in first position on these strings are written below the staff, using ledger lines to keep track of how far below the staff they are. Notes on ledger lines tend to be a little more difficult to recognize quickly than notes in the staff, so don't be concerned if you have to slow down a bit for this lesson. 
+  </para><para id="eip-297">The same naming pattern continues, with each step down to the next ledger line, or space between ledger lines, named by the next-lower letter in the alphabet, as shown in <link target-id="below-the-staff-figure"/>
+</para><figure id="below-the-staff-figure">
+  <media id="below-the-staff" alt="All of the natural notes on the lower two strings in first position, with names indicated and first-position fingerings indicated as tablature">
+    <image mime-type="image/png" src="../../media/below-the-staff.png"/>
+  </media>
+  <caption>
+     All of the notes in first position on the lowest two strings are written below the staff, using ledger lines.
+  </caption>
+</figure><list id="eip-532" list-type="enumerated" number-style="arabic"><title>Activity 1: Practice naming and playing the notes below the staff</title><item>If possible, find sections of the <link document="m62589">beginning pieces you have chosen</link> that include notes below the staff.</item>
+<item>Practice these sections using the same techniques as in the activities in <link document="m62670">Lesson 2</link>. In other words, try to add only one or two new notes at a time, to give you a chance to start memorizing the name and fingering of each note.</item>
+<item>One or two notes at a time, learn as many of these new notes as you can find in your beginning pieces. </item>
+<item>If any of these notes are written in your tablature in a higher position, make sure you also know the first-position fingering. Notice the notes on the E string that do not have any alternative fingerings.</item>
+<item>If you cannot find one or two of these low notes in your music, go on to Lesson 5 and simply return to this activity to learn the remaining notes when you do encounter them.</item></list><para id="eip-510">The figures below are a summary of all of the natural notes that can be played in first position, for quick reference.</para>
+
+<figure id="first-position-natural-staff-figure"><media id="first-position-natural-staff" alt="All of the natural notes that can be played in first position, written as common notation and tablature.">
+    <image mime-type="image/png" src="../../media/first-position-natural-staff.png"/>
+  </media>
+  
+<caption>All of the natural notes that can be played in first position, written as common notation and tablature.
+  </caption></figure><figure id="first-position-natural-fretboard-figure"><media id="first-position-natural-fretboard" alt="All of the natural notes that can be played in first position, shown on a fretboard diagram.">
+    <image mime-type="image/png" src="../../media/first-position-natural-fretboard.png"/>
+  </media>
+  
+<caption>All of the natural notes that can be played in first position, shown on a fretboard diagram.
+  </caption></figure></content>
+
+</document>

@@ -1,0 +1,34 @@
+<document xmlns="http://cnx.rice.edu/cnxml">
+
+<title>From tablature to notation 3: Positions of Natural Notes in the Staff</title>
+<metadata xmlns:md="http://cnx.rice.edu/mdml">
+  <md:content-id>m62679</md:content-id>
+  <md:title>From tablature to notation 3: Positions of Natural Notes in the Staff</md:title>
+  <md:abstract>When the D just below the staff and the G just above the staff are included, the notes on the staff represent all of the natural notes that can be played in first position on the first four strings of the guitar, but there are also alternative fingerings for all of these notes, in other positions.</md:abstract>
+  <md:uuid>83fe201e-566e-402a-b271-16d19acc4c3a</md:uuid>
+</metadata>
+
+<content>
+  <note id="eip-849">This lesson is part of <link document="col12059">Common Notation for Guitar Tablature Readers</link>, a <link document="m62540">learning by doing</link> course intended to help guitarists who are comfortable with tablature learn how to read common notation. It is a short experimental course that will be refined and expanded if there is sufficient user interest and feedback.</note><para id="delete_me"><emphasis>All of the notes on the staff can be played in first position on the first four strings of the guitar.</emphasis> In other words, they can all be played on an open string, or at fret 1, 2, or 3, so you can play them all without moving your left hand to a higher position on the fretboard. In this lesson, we are going to add two more notes: the G that is just above the top-line F on the staff, and the D that is just below the bottom-line E. 
+  </para>
+
+<figure id="notes-on-staff-figure">
+  <media id="notes-on-staff" alt="Staff with notes from D below the staff to G above the staff, with note names and with first position fingerings indicated in tablature.">
+    <image mime-type="image/png" src="../../media/notes-on-staff.png"/>
+  </media>
+  <caption>
+     These are all of the natural notes that can be played in first position on the first four strings of the guitar.
+  </caption>
+</figure>
+
+<para id="eip-616">With those two notes added, you will know all of the <emphasis>natural</emphasis> (i.e., not sharp or flat) notes that can be played in first position on the first four strings. You will also be able to find, in first position, any note that is in or touching the staff. This is useful for reading pieces in common notation that do not include guitar fingerings. When you first read the piece, you can read it mostly in first position. As you work on the piece, you may choose to play parts of it in a different position, perhaps because you find the fingering easier or prefer the timber, or prefer not to use open strings.</para><list id="eip-709" list-type="enumerated" number-style="arabic"><title>Activity 1: Practice notes above and below the staff</title><item>If possible, find sections of the <link document="m62589">beginning pieces you have chosen</link> that include the G that sits on top of the staff and/or the D that sits just below the staff, but no other new notes.</item>
+<item>If you can find them, practice these sections using the same methods as in <link document="m62670">Lesson 2</link>. If you can't find any appropriate sections, save learning these notes for when they turn up in your music, and go on to the next lesson.</item></list><list id="eip-920" list-type="enumerated" number-style="arabic"><title>Activity 2: Find alternative positions</title><item>If possible, find a favorite  section of a piece that you were using in Lesson 2, or in Activity 1 of this lesson, that is written in tablature in the first position (i.e., all of the notes are open string, or at frets 1, 2, or 3).
+</item>
+<item> 
+Find a higher position for those notes, as you learned to do in <link document="m62598">Lesson 1</link>, and practice the music in the higher position. All of the notes in the staff have at least one alternative position. 
+</item>
+<item>
+If possible, find a favorite  section of a piece that you were using in Lesson 2, or in Activity 1 of this lesson, that is written in tablature in a higher position. Practice playing it in first position; this will be possible for any music that is entirely within the staff.</item>
+<item>When you feel comfortable finding and using alternative positions for notes that are written in the staff, go on to the next lesson.</item></list></content>
+
+</document>

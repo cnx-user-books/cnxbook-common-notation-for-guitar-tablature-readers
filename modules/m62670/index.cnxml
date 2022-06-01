@@ -1,0 +1,67 @@
+<document xmlns="http://cnx.rice.edu/cnxml">
+
+<title>From tablature to notation 2: Natural Notes on the Staff</title>
+<metadata xmlns:md="http://cnx.rice.edu/mdml">
+  <md:content-id>m62670</md:content-id>
+  <md:title>From tablature to notation 2: Natural Notes on the Staff</md:title>
+  <md:abstract>On the common notation staff, each line represents a named note, and the spaces in between the lines also represent named notes. The note names use the same system that is used to name guitar strings. You can begin to recognize where to play a note on the staff by checking to see how it is written in tablature.</md:abstract>
+  <md:uuid>f6f7425b-48ee-42a0-86fd-d486b62a0039</md:uuid>
+</metadata>
+
+<content>
+  <note id="eip-160">This lesson is part of <link document="col12059">Common Notation for Guitar Tablature Readers</link>, a <link document="m62540">learning by doing</link> course intended to help guitarists who are comfortable with tablature learn how to read common notation. It is a short experimental course that will be refined and expanded if there is sufficient user interest and feedback.</note><note id="eip-582" type="important">Remember, as with any “lesson” in which you are mainly learning to do something, rather than only learning facts, each of these lessons will take some time. The typical guitarist will need many practice sessions over the course of a few weeks to become comfortable with these activities and ready to move on to Lesson 3. There are different “comfort” levels, however. You may choose to move on as soon as you understand; in that case, you will be deciphering common notation, learning how to translate it, rather than smoothly “reading” it. Or you can wait until you are reading smoothly to move on. The choice depends on your personal goals: do you want to be able to read pieces in common notation smoothly and automatically, or do you just want to be able to decipher them when needed?</note><para id="delete_me">The common notation staff consists of five lines. Each line represents a named note, and the spaces in between the lines also represent named notes. The note names use the same system that is used to name guitar strings. For example, the highest space in the staff is the “E” that is played on the open high E string.
+  </para>
+
+<figure id="high-E-figure"><media id="high-E" alt="A fourth-space E, written in both common notation and tablature, for comparison">
+    <image mime-type="image/png" src="../../media/high-E.png"/>
+  </media>
+  
+<caption>Notes in the highest space on the staff are the “E” that can be played on the open high E string.
+  </caption></figure><para id="eip-765">The notes are named using seven letters of the alphabet, from A to G. At the <emphasis>eighth</emphasis> note (the <term>octave</term>), they start over again with A. You have probably noticed, for example, that you have two “E” strings, the highest and lowest guitar strings. They are both called “E” because the open strings sound exactly two octaves apart. They have the same name because for music theory purposes they are in some important respects “the same” note. For example, women and men can sing "the same" tune in "the same" key, by singing "the same" notes, one octave apart. A guitarist playing a chord that needs an E note can choose to play a higher or lower E; either one would complete the chord! (You can learn more about chord theory for guitarists through the <link document="col12060">Music Theory for Guitar</link> course.)</para><figure id="low-E-figure"><media id="low-E" alt="An E below the staff, written in both common notation and tablature, for comparison">
+    <image mime-type="image/png" src="../../media/Low-E.png"/>
+  </media>
+  
+<caption>The note played on the open low E string is also called “E”, but sounds different and looks different when written.
+  </caption></figure><para id="eip-594">Of course, the high and low E are different in other important respects. They are written differently and have different <link document="m11059">timbres</link>, and they create different overall sounds when, for example, combined with the open B and open G strings. So when you are choosing which E to include in a chord (a choice called chord <term>voicing</term>), you might decide that one or the other (or both) sounds better, depending on what you want the chord to sound like in a particular situation.</para><figure id="two-e-minors-figure"><media id="two-e-minors" alt="Two E minor chords writen in tablature, one using the 1st, 2nd, and 3rd strings, the other using 6th, 2nd, and 3rd strings.">
+    <image mime-type="image/png" src="../../media/two-e-minors.png"/>
+  </media>
+  
+
+<caption>Notes with the same name have the same function in music theory. For example, these two chords are both E minor chords. However, they sound slightly different, because they are <term>voiced</term> differently; they use E's in different octaves. As a guitarist, you can choose the voicing for any chord, based on what sounds best in a given situation (in other words, based on the style of the music, what comes before and after the chord, what your band mates are playing, etc.).
+  </caption></figure><para id="eip-283">You may have noticed that it is easier and quicker to see that the E in <link target-id="high-E-figure"/> is "in the top space" of the staff, than it is to see that the E in <link target-id="low-E-figure"/> is "under the third extra line below the staff." In these first few lessons, you will work on recognizing and naming notes inside the staff, because those are the easiest to read. You do not have to remember the name to be able to play the note, but knowing the names can help you understand chord names, chord progressions, keys and scales for soloing, and other very useful aspects of music theory.</para><figure id="notes-in-staff-figure"><media id="notes-in-staff" alt="Notes from first-line E to fifth-line F, written in both common notation and tablature, for comparison">
+    <image mime-type="image/png" src="../../media/notes-in-staff.png"/>
+  </media>
+<caption>Here are all of the natural notes that are written in the staff, with names and the tablature for playing them in first position. </caption></figure>
+
+<para id="eip-483">All of these notes can be played in the first position, as shown in <link target-id="notes-in-staff-figure"/>. However, as demonstrated in <link document="m62598">Lesson 1</link>, they might be written in your tablature in a different position. For now, practice the activities below using the fingerings that are shown in the tablature of your music. In Lesson 3 you will practice finding alternative fingerings, including finding the first position fingerings for these notes.</para><note id="eip-878">It is not a coincidence that you can play all of the notes inside the staff in the first position on the highest three strings. The guitar is a <link document="m10672">transposing instrument</link>; the notes actually sound one octave lower than written. Some instruments are written as transposing instruments so that their melody range is centered in the staff, rather than most notes being above the staff, or most below, which makes reading the notation more difficult. Fortunately for guitarists, transposing an octave is not very confusing, since notes of the same name are pretty interchangeable, as explained <link target-id="eip-765">above</link>. You will be able to talk to pianists, vocalists, and other musicians about “E notes” and “F chords” without confusion, because most will not care which octave you are talking about.</note><list id="eip-405" list-type="enumerated" number-style="arabic"><title>Activity 1: Practice with Note Names</title><item>Choose a short section – just a couple of measures – of one of your beginning pieces for this course, making sure that it contain only notes in the staff, not above or below, and no sharps or flats (see instructions for choosing pieces in the <link document="m62589">course introduction</link>). If possible, choose a section that uses the same few notes repeatedly, so that you can repeatedly practice recognizing those few notes. </item>
+<item>Referring to <link target-id="notes-in-staff-figure"/>, write the name of each note above or below it, in both the tablature and common notation versions. See <link target-id="eip-926"/>.</item>
+<item>Play the section once or twice while looking at the tablature and learning the note names. At this point you should know what the section sounds like and how to play it. </item>
+<item>Now try to play it while looking at the common notation instead of the tablature. If you make a mistake, refer to the note names as a reminder. If that is not enough, study the tablature version again.</item>
+<item>Play something else, then come back to the section and try to play it without looking at the tablature. You are trying to learn to associate the note names, and the way they look on the staff, with where they are played on the guitar.</item>
+<item>When Step 5 becomes easy, repeat this activity with a different section, preferably one that introduces a few, but not too many, new notes.</item>
+<item>Repeat Step 6 as many times as you like. As you get more familiar with the note names, try to write them down from memory, then check your work by referring to <link target-id="notes-in-staff-figure"/>. </item></list><example id="eip-926">
+<para id="eip-476">Using <link target-id="notes-in-staff-figure"/> as a guide, write the correct names over or under the notes in both the tablature and the common notation of the section you will practice.
+<figure id="in-staff-example-figure"><media id="TAB2-Ex1" alt="Example">
+    <image mime-type="image/png" src="../../media/TAB2-Ex1.png"/>
+  </media>
+<caption>Writing the same note names over both the tablature and the common notation can help you both learn the note names and learn to associate a specific TAB fingering with the corresponding note on the staff.</caption></figure></para><note id="eip-995">As you can see from the example, tablature and common notation mostly have a note-for-note correspondence (i.e. one note written in tablature for every note written in common notation. However, there is one very common exception: "tied notes," which are used in common notation to write complex rhythms. When notes on the same line or space of the staff are tied together with a curved line, they actually only indicate a single played note, as you can see by comparing the tied notes with the tablature in the example. (Rhythms are not covered at all in this course; see the <link document="col12057">Reading Rhythm</link> course if this aspect of common notation interests you.)</note></example>
+
+<list id="eip-26" list-type="enumerated" number-style="arabic"><title>Activity 2: Practice Without Note Names</title><item>Choose a new piece, or sections of your first piece that have no note names written over them.</item>
+<item>Practice in the same way as in Activity 1, but without the written note names to help you make the switch from tablature to common notation.</item>
+<item>As you play, or before or after playing, practice naming the notes in these sections from memory. Check as needed to make sure you are correct.</item></list><list id="eip-892" list-type="enumerated" number-style="arabic"><title>Activity 3: Chart Your Progress</title><item>Start a course journal for keeping track of what you have learned and still need to learn. In it, write on a staff, from the lowest note to the highest, all of the notes that you have practiced playing in Activities 1 and 2. (See the <link target-id="TAB2-Ex2">example below</link>.)</item>
+<item>Are any of the notes in the staff missing from your list? If not, go on to Lesson 3.</item>
+<item>If there are any notes in the staff that you have not practiced reading yet, look for sections in your “beginning pieces” that have the notes you still need to learn. </item>
+<item>If you can find them, practice sections with the new notes as in Activities 1 and 2.</item>
+<item>Whenever you learn to recognize and play a new note, add it to the list of "practiced" notes in your journal, and take it off the list of "still need to learn" notes.</item>
+<item>If you cannot find sections with the notes you need to learn, look for another piece that fills the “beginning piece” requirements and has these notes. If you cannot find one and you are only missing practice with one or two notes in the staff, it you may want to go on to Lesson 3. You can "backtrack" and practice the missing notes whenever you do finally encounter them.</item></list><figure id="TAB2-Ex2-figure">
+  <media id="TAB2-Ex2" alt="G, A, and B in the staff listed as practiced, all other notes in the staff listed as still need to learn.">
+    <image mime-type="image/png" src="../../media/TAB2-Ex2.png"/>
+  </media>
+  <caption>
+This example shows the notes already practiced in the <link target-id="TAB2-Ex1">example above</link>
+  </caption>
+</figure>
+
+</content>
+
+</document>
